@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepbaran
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular
 - 📫 You can reach me at my email address - deepbaran97@gmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
